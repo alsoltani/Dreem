@@ -43,6 +43,5 @@ Thumbs.db
 .idea
 record1_bad_quality.csv
 record1_good_quality.csv
-quality_detector.py
 easy_import.py
 instruction.pdf
