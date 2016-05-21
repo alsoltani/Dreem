@@ -1,4 +1,4 @@
-ompiled source #
+# Compiled source #
 ###################
 *.com
 *.class
@@ -39,6 +39,8 @@ Thumbs.db
 # Personal additions #
 ######################
 *.h5
+*.pyc
+.idea
 record1_bad_quality.csv
 record1_good_quality.csv
 quality_detector.py
